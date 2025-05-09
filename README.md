@@ -1,8 +1,7 @@
-# Agent-Powered UI with Chainlit 🚀
+# Welcome to Chainlit Agent-Powered UI🚀
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/waheed444/Chainlit.svg?style=social)](https://github.com/waheed444/Chainlit)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/chainlit-agent-ui.svg?style=social)](https://github.com/waheed444/Chainlit)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
 
