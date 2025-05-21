@@ -1,7 +1,7 @@
 # Welcome to Chainlit Agent-Powered UI🚀
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/waheed444/Chainlit.svg?style=social)](https://github.com/waheed444/Chainlit)
+[![GitHub stars](https://img.shields.io/github/stars/waheed444/Chainlit.svg?style=social)]([![License](https://img.shields.io/badge/License-MIT-blue.svg)https://github.com/waheed444/explore_chainlit](https://opensource.org/licenses/MIT)
+)
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
 
@@ -56,7 +56,8 @@ Before you begin, ensure you have Python 3.10 or higher installed.  We recommend
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/waheed444/Chainlit.git
+git clone [![License](https://img.shields.io/badge/License-MIT-blue.svg)https://github.com/waheed444/explore_chainlit](https://opensource.org/licenses/MIT)
+.git
 cd chainlit-agent-ui
 ```
 
@@ -101,7 +102,8 @@ We welcome contributions to improve this project! Please follow these steps:
 4. **Commit your changes:** `git commit -m "Add feature"`
 5. **Push to the branch:** `git push origin feature-name`
 6. **Submit a pull request** with a clear description of your changes and their benefits.
-If you find any issues or want to improve this project, feel free to open a [GitHub issue](https://github.com/waheed444/Chainlit/issues) or submit a pull request.
+If you find any issues or want to improve this project, feel free to open a [GitHub issue]([![License](https://img.shields.io/badge/License-MIT-blue.svg)https://github.com/waheed444/explore_chainlit](https://opensource.org/licenses/MIT)
+/issues) or submit a pull request.
 
 This repo is only for learning and exploring new things, feel free to fork it, explore, or give suggestions!
 
